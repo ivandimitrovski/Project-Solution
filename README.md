@@ -10,7 +10,7 @@ This is the proposed project solution for Polar Cape graduate program.
 
 1. Pull all files from project
 2. Open the project with IDE (Netbeans, InteliJ)
-3. Run the project conosle application
+3. Run Solution.java as project console application
 
 ## Project Structure
 
