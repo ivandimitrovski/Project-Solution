@@ -17,7 +17,12 @@ This is the proposed project solution for Polar Cape graduate program.
 ```
 ├── "src"                   
 |   ├── project
-|   ├──├── Solution.java     --- Official Solution
+|   ├──├── Solution.java     --- Main execution file
+|   ├──├── Application.java  --- Application methods
+|   ├──├── Author.java       --- Author class implementation
+|   ├──├── Book.java         --- Book class implementation
+|   ├──├── Ebook.java        --- Ebook class implementation
+|   ├──├── PrintCoppy.java   --- PrintCoppy class implementation
  
 ```
 
